@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "typescript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "files.trimTrailingWhitespace": true
+}
