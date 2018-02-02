@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { CommonModule } from '@angular/common';
+import { FormsModule } from "@angular/forms";
 import { Http, HttpModule } from '@angular/http';
 import { Router, RouterModule } from '@angular/router';
 import { LocationStrategy, HashLocationStrategy } from '@angular/common';
@@ -23,6 +24,7 @@ import { AboutComponent } from './shared/components/about/about.component';
     BrowserModule,
     BrowserAnimationsModule,
     CommonModule,
+    FormsModule,
     HttpModule,
     AppRoutingModule,
     RouterModule

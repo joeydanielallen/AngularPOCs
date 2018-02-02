@@ -6,12 +6,21 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./dashboard.component.css']
 })
 export class DashboardComponent implements OnInit {
-  title = 'app';
+  title = 'dashboard';
+  name = '';
+  public greeting = '';
 
-  constructor() { }
+  greet(): void{
+    this.greeting = 'Welcome!';
+  }
+
+  constructor() {
+const t = "s";
+
+   }
 
   ngOnInit() {
-    
+
   }
 
 }

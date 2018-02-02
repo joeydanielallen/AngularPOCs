@@ -19,6 +19,15 @@
                 "--disk-cache-size=1",
                 "--incognito"
             ]
+        },
+        {
+            "name": "Attach Karma Chrome",
+            "type": "chrome",
+            "request": "attach",
+            "address": "localhost",
+            "port": 9888,
+            "sourceMaps": true,
+            "webRoot": "${workspaceRoot}"
         }
     ]
 }
