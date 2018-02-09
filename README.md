@@ -15,11 +15,11 @@ Hit F5 to debug using Chrome incognito.
 Branch Plan
 <ul>
 <li>Master is the project created from ng new<br/>
-  Includes vssettings and 
+  Includes settings for VS Code and launching Chrome for debug 
  </li>
  <ul>
    <li>
-   
+   Cucumber
    </li>
    </ul>
  </ul>
