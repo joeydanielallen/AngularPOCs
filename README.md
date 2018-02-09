@@ -11,3 +11,15 @@ Clone repo.
 Run NPM INSTALL.
 If using VS Code, run ng serve from the integrated terminal where the path is the package.json directory.
 Hit F5 to debug using Chrome incognito.
+
+Branch Plan
+<ul>
+<li>Master is the project created from ng new<br/>
+  Includes vssettings and 
+ </li>
+ <ul>
+   <li>
+   
+   </li>
+   </ul>
+ </ul>
